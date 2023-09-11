@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;600&display=swap');
+
+.txt{
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+
+.txt-light{
+    font-weight: 400;
+}
+
+.txt-bold{
+    font-weight: 600;
+}
+
+.txt-s{
+    font-size: 1rem;
+}
+
+.txt-m{
+    font-size: 1.3rem;
+}
+
+.txt-l{
+    font-size: 1.5rem;
+}
+.txt-xl{
+    font-size: 1.7rem;
+}
+
+.txt-center{
+    text-align: center;
+}
