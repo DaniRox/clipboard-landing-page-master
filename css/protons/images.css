@@ -1,4 +1,27 @@
+.logo{
+    width: 7rem;
+    margin: 1rem;
+}
+
 .logo-empresa{
     width: 7.5rem;
     margin: 1.8rem 0;
+}
+
+.img-computer{
+    margin: 1rem;
+    width: 100%;
+}
+
+.img-devices{
+    width: 110%;
+}
+
+.logo-footer{
+    width: 3rem;
+    margin: 1rem;
+}
+
+.icon-social{
+    width: 1.3rem;
 }

@@ -1,3 +1,27 @@
 html{
     font-size: 18px;
 }
+
+main{
+    padding: 2rem 0 5rem;
+}
+
+
+
+@media only screen and (min-width: 770px){
+    html{
+        font-size: 19px;
+    }
+}
+
+@media only screen and (min-width: 1024px){
+    html{
+        font-size: 20px;
+    }
+}
+
+@media only screen and (min-width: 1440px){
+    html{
+        font-size: 21px;
+    }
+}
